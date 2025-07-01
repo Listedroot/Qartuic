@@ -1,4 +1,4 @@
-# Qartuic Minecraft Protocol Library
+# Qartuic 
 
 Qartuic is a Java library for building Minecraft server software foundation. It provides protocol support for every Minecraft version from 1.8.9 to 1.21.5. Qartuic is intended for server developers who want to implement the Minecraft protocol themselves, not for plugin or wrapper development. All protocol logic follows the official Minecraft specifications for the best stable experience.
 
