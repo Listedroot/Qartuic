@@ -1,6 +1,6 @@
 # Contributing to Qartuic
 
-Thank you for your interest in contributing to Qartuic! We welcome all real, production-grade contributions—no stubs, placeholders, or demo code.
+Thank you for your interest in contributing to Qartuic! We welcome all contributions. small or big . as long as it helps !
 
 ## How to Contribute
 
